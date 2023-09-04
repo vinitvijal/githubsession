@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/vinitvijal/Documents/Data Science/Github",
+      "program": "/Users/vinitvijal/Documents/Data Science/Github/build/Debug/outDebug"
+    }
+  ]
+}
